@@ -1,0 +1,47 @@
+{
+    "profile": {
+        "name": "ZIELLAMP.",
+        "bio": "Digital creator & content curator. Welcome to my online space where I share my passions and connect with you!",
+        "image": "https://files.catbox.moe/if95ph.jpg"
+    },
+    "links": [
+        {
+            "title": "Instagram",
+            "url": "https://instagram.com/acklesmith",
+            "icon": "fab fa-instagram"
+        },
+        {
+            "title": "Website",
+            "url": "https://ziell.my.id",
+            "icon": "fas fa-globe"
+        },
+        {
+            "title": "TikTok",
+            "url": "https://tiktok.com/@ziellamp",
+            "icon": "fab fa-tiktok"
+        },
+        {
+            "title": "Pinterest",
+            "url": "https://pinterest.com/ziellxml",
+            "icon": "fab fa-pinterest"
+        },
+        {
+            "title": "WhatsApp",
+            "url": "https://wa.me/6283897159514",
+            "icon": "fab fa-whatsapp"
+        },
+        {
+            "title": "Channel Preset",
+            "url": " https://whatsapp.com/channel/0029Vb26nlxLNSZxPZjhIu2G",
+            "icon": "fab fa-whatsapp"
+        }
+    ],
+    "music": {
+        "title": "The Cut That Always Bleeds",
+        "artist": "Conan Gray",
+        "albumArt": "https://files.catbox.moe/x0dya6.jpg",
+        "audioFile": "https://files.catbox.moe/4civtp.mp3", 
+        "duration": 180,
+       
+    }
+}
